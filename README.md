@@ -36,48 +36,6 @@ End-to-End ML Lifecycle, CI/CD, Model Versioning, Retraining, Model Health Metri
 **Collaboration & Agile**  
 Jira, Confluence, Stakeholder Communication, Cross-Functional Collaboration
 
----
-
-## 💼 Experience
-
-### Visa, USA — AI Software Engineer (Risk & Fraud Detection)  
-*Aug 2024 – Present*
-
-- Built real-time transaction risk scoring pipelines with Python and Apache Kafka, enabling fraud evaluation within 120–150 ms for high-volume card authorizations.
-- Developed supervised fraud detection models using gradient boosting on highly imbalanced datasets, increasing fraud capture by 18% while keeping false declines under business thresholds.
-- Engineered behavior-based features (transaction velocity, spend variance, merchant concentration, cross-border patterns), improving model AUC by 12% over earlier versions.
-- Deployed models as scalable inference services with Docker and Kubernetes to maintain performance during traffic spikes without impacting latency.
-- Implemented MLOps monitoring (precision, recall, KS, PSI, drift alerts) reducing retraining turnaround time by 20%.
-
-### HCLTech, India — Associate Software Engineer (AI/ML)  
-*Jul 2021 – Jul 2023*
-
-- Delivered end-to-end ML solutions for use cases like churn analysis and demand forecasting, cutting manual analysis effort by ~30% across delivery teams.
-- Built data preparation pipelines using pandas and SQL to clean, merge, and validate CRM and transactional datasets, improving data readiness for modeling.
-- Implemented and tuned models (logistic regression, random forest, gradient boosting), achieving 10–15% better accuracy than rule-based systems.
-- Automated evaluation workflows with performance reports and error analysis, reducing review cycles by ~25%.
-
----
-
-## 🎓 Education
-
-- **Master of Science in Computer Science** — George Mason University, Virginia, USA
-- **Bachelor of Technology in Computer Science and Engineering** — GITAM University, Hyderabad, India
-
----
-
-## 📜 Certifications
-
-- AWS Cloud Practitioner
-- Python for Data Science, AI & Development
-
----
-
-## 🚀 What I'm Looking For
-
-I'm currently interested in **AI Software Engineer**, **Machine Learning Engineer**, or **MLOps Engineer** roles where I can design production-grade ML systems, work with streaming data, and build reliable model deployment pipelines at scale.
-
-If my profile aligns with what you're building, feel free to reach out via email or LinkedIn!
 
 ---
 
