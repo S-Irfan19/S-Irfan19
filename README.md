@@ -73,14 +73,6 @@ Jira, Confluence, Stakeholder Communication, Cross-Functional Collaboration
 
 ---
 
-## 📊 GitHub Stats
-
-![Shaik's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Irfan19&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Irfan19&layout=compact&theme=radical)
-
----
-
 ## 🚀 What I'm Looking For
 
 I'm currently interested in **AI Software Engineer**, **Machine Learning Engineer**, or **MLOps Engineer** roles where I can design production-grade ML systems, work with streaming data, and build reliable model deployment pipelines at scale.
